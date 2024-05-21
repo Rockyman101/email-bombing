@@ -45,8 +45,7 @@ It only works through Gmail, it does not identify the user as a spammer in any w
 <a href="mailto:mallappanvarmanojgmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-mallappanvarmanojgmail.com-blue?style=for-the-badge&logo=gmail"></a>
 
 ### [+] feel free
-
-feel free to reach out mailto:mallappanavarmanoj@gmail.com
-for more info about dependencies <a href="https://github.com/tqdm/tqdm" >tqdm and <a href="https://github.com/tartley/colorama">coloroma
+feel free to reach out mailto:mallappanavarmanoj@gmail.com<br>
+for more info about dependencies <a href="https://github.com/tqdm/tqdm" >tqdm <br> <a href="https://github.com/tartley/colorama">coloroma
 
 
