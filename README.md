@@ -46,6 +46,6 @@ It only works through Gmail, it does not identify the user as a spammer in any w
 
 ### [+] feel free
 feel free to reach out mailto:mallappanavarmanoj@gmail.com<br>
-for more info about dependencies <a href="https://github.com/tqdm/tqdm" >tqdm <br> <a href="https://github.com/tartley/colorama">coloroma
+for more info about dependencies <a href="https://github.com/tqdm/tqdm" >tqdm   <a href="https://github.com/tartley/colorama">coloroma
 
 
